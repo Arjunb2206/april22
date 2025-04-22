@@ -1,4 +1,4 @@
-//sum of three number c program
+//sum of three number c program is written :
 #include<stdio.h>
 int main()
 {
