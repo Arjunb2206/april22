@@ -2,10 +2,10 @@
 #include<stdio.h>
 int main()
 {
-	int sum,a,b;
-	printf("enter a number");
-	scanf("%d %d",&a,&b);
-	sum=a+b;
+	int sum,a,b,c;
+	printf("enter three  number");
+	scanf("%d,%d,%d",&a,&b,&c);
+	sum=a+b+c;
 	printf("sum is : %d",sum);
 	return 0;
 }
